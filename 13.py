@@ -10,3 +10,5 @@ def show_names():
         print(name, end="")
     my_file.close()
 
+dev haim(moshe):
+    print("haim")
