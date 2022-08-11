@@ -1,0 +1,6 @@
+requests~=2.28.1
+selenium~=4.3.0
+matplotlib
+awscli
+Flask~=2.1.2
+names~=0.3.0
