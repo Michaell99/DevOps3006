@@ -1,5 +1,5 @@
 import ast
-a= "{'name': 'miki'}"
+a= "{'name': 'avi'}"
 my_file = open("config.json")
 c = dict(ast.literal_eval(my_file.read()))
 
