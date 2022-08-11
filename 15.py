@@ -1,6 +1,7 @@
 from selenium import webdriver
 from time import sleep
 
+# my comment
 my_driver = webdriver.Chrome(executable_path="c:/Users/User/Desktop/chromedriver.exe")
 my_driver.get("c:/Users/User/Desktop/tip_calc/index.html")
 my_driver.find_element(by="id", value="billamt").send_keys("100")
